@@ -32,3 +32,18 @@ ID | FILM                                | RELEASE DATE
 20 | Captain Marvel                      | 08 / 03 / 2019
 21 | Avengers: Endgame                   | 26 / 04 / 2019
 22 | Spider-Man: Far From Home           | 02 / 07 / 2019
+
+### PHASE 2
+ID | FILM                                        | RELEASE DATE  
+---|---------------------------------------------|---------------
+23 | Black Widow                                 | 07 / 05 / 2021
+24 | Shang-Chi and the Legend of the Ten Rings   | 09 / 07 / 2021
+25 | Eternals                                    | 05 / 11 / 2021
+26 | Spider-Man: No Way Home                     | 17 / 12 / 2021
+27 | Doctor Strange in the Multiverse of Madness | 25 / 03 / 2022
+28 | Thor: Love and Thunder                      | 06 / 05 / 2022
+29 | Black Panther II                            | 08 / 07 / 2022
+30 | Captain Marvel 2                            | 11 / 11 / 2022
+31 | Ant-Man and the Wasp: Qualtumania           | 2022
+32 | Guardians of the Galaxy Vol. 3              | 2023
+33 | Fantastic Four                              | TBA
