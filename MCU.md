@@ -1,3 +1,4 @@
+### PHASE 1
 ID | FILM                                | RELEASE DATE  
 ---|-------------------------------------|---------------
 0  | Iron Man                            | 02 / 05 / 2008
@@ -6,6 +7,9 @@ ID | FILM                                | RELEASE DATE
 3  | Thor                                | 06 / 05 / 2011
 4  | Captain America: The First Avenger  | 22 / 07 / 2011
 5  | Marvel's The Avengers               | 04 / 05 / 2012
+
+### PHASE 2
+ID | FILM                                | RELEASE DATE  
 ---|-------------------------------------|---------------
 6  | Iron Man 3                          | 03 / 05 / 2013
 7  | Thor: The Dark World                | 08 / 11 / 2013
@@ -13,6 +17,9 @@ ID | FILM                                | RELEASE DATE
 9  | Guardians of the Galaxy             | 01 / 08 / 2014
 10 | Avengers: Age of Ultron             | 01 / 05 / 2015
 11 | Ant-Man                             | 17 / 07 / 2015
+
+### PHASE 3
+ID | FILM                                | RELEASE DATE  
 ---|-------------------------------------|---------------
 12 | Captain America: Civil War          | 06 / 05 / 2016
 13 | Doctor Strange                      | 04 / 11 / 2016
